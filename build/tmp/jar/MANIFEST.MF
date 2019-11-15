@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: barproject
+Implementation-Vendor: imageprocessing
+Main-Class: imageprocessing.MainKt
+
